@@ -37,7 +37,7 @@ We identified a few requirements
   * Students are **money conscious**. A way to **show savings or cost per serving** would be beneficial.
 
 
-[Full phase 1 report](requirements/)
+[Full phase 1 report](requirements/README.md)
 
 # Phase 2: Interaction Design
 
