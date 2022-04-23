@@ -43,10 +43,10 @@ We identified a few requirements
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+* Creating different panels to simulate how the application will work.
+* We include a **home screen** that has a **wizard** to guide users to the filters that must be placed on recipes.
+* Then there includes a **hamburger helper** that lists different options for the user to navigate through for a quick link.
+* Finally there is a **search bar** to allow user to search for recipes they would like to try.
 
 [Full phase 2 report](design/)
 
