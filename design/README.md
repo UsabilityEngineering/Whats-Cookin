@@ -2,7 +2,7 @@
 ## Group
 Bryant Hoang, Gabriel Rachert, Ryan Lehmer
 
-##Summary
+## Summary
 Our persona and scenarios gave us ideas on the type of application and the needs that such users would be able to freely use in their own unique way as the app is designed to tailor to the users.
 
 Taking into consideration different food requirements such allergies, ingredients that recipes must include and exclude, etc.
