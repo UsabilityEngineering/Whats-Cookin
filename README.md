@@ -48,7 +48,7 @@ We identified a few requirements
 * Then there includes a **hamburger helper** that lists different options for the user to navigate through for a quick link.
 * Finally there is a **search bar** to allow user to search for recipes they would like to try.
 
-[Full phase 2 report](design/)
+[Full phase 2 report](design/README.md)
 
 # Phase 3: Usability Evaluation
 
