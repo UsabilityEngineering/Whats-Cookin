@@ -11,8 +11,8 @@ A cooking app that allows the user to meet up with friends and family to come to
 # User-Centered Design Artifacts
  
 * [Personas and Scenarios](Persona_Scenario.pdf)
-* [Wireframes](#) - Coming soon!
-* [Prototype](#) - Coming soon!
+* [Wireframes](design/README.md)
+* [Prototype](https://xd.adobe.com/view/52b73d44-dec3-470c-885c-c0341847227d-07e4/) draft
 
 # Phase 1: Requirements Gathering
 
