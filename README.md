@@ -12,7 +12,7 @@ A cooking app that allows the user to meet up with friends and family to come to
  
 * [Personas and Scenarios](Persona_Scenario.pdf)
 * [Wireframes](design/README.md)
-* [Prototype](https://xd.adobe.com/view/52b73d44-dec3-470c-885c-c0341847227d-07e4/) draft
+* [Prototype](https://xd.adobe.com/view/0c98ae4c-f892-4d6d-a6f1-8223d9be61a1-59cb/)
 
 # Phase 1: Requirements Gathering
 
@@ -54,9 +54,8 @@ We identified a few requirements
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+* Interviewing users to **gather thoughts and previous experiences** for similar situations of finding recipes
+* **Think-Out-Loud Approach** for user thought process on website navigation
+* Retrieving user inputs on additional improvements of website
 
-[Full phase 3 report](evaluation/)
+[Full phase 3 report](evaluation/README.md)
