@@ -3,7 +3,7 @@
 Bryant Hoang, Gabriel Rachert, Ryan Lehmer
 
 ## Functional Requirements
-- Who your users are
+- Who are your users? 
   - Users who are interested in cooking as well as having a good time with friends and family by sharing ingredients and making a nice meal.
 - Why might they need a new solution to a problem?
   - Our solution not only allows people to find recipes with what they have but we have a large focus on friends. Our app focuses on the social aspects of cooking and attempts to bring people together over food.
@@ -31,7 +31,7 @@ Bryant Hoang, Gabriel Rachert, Ryan Lehmer
 - n=9
 
 ## Findings
-We got responses from 9 people ranging from 20-40. We found that the majority of people didn't find it hard to cook, but nor was it something they found easy. However the majority of people also cooked at home fairly often. Though in how much time they made for themselves to cook, it was pretty split across the likhert scale. The majority of our respondees spent some or a decent amount of time with friends. Nobody was looking for only healthy recipies, but the responses were almost evenly split among the rest of the options on the likhert scale. It was split down the middle of whether or not they enjoyed watching food videos, but most of the respondees don't use any cooking apps or websites currently to augment their cooking. 7/9 of the respondees were saying that they were trying to save money when cooking. 
+We got responses from 9 people ranging from 20-40. We found that the majority of people didn't find it hard to cook, but was it something they found easy. However the majority of people also cooked at home fairly often. Though in how much time they made for themselves to cook, it was pretty split across the likhert scale. The majority of our respondees spent some or a decent amount of time with friends. Nobody was looking for only healthy recipies, but the responses were almost evenly split among the rest of the options on the likhert scale. It was split down the middle of whether or not they enjoyed watching food videos, but most of the respondees don't use any cooking apps or websites currently to augment their cooking. 7/9 of the respondees were saying that they were trying to save money when cooking. 
 
 ## Conclusions
 - Based on the data gathered on whether or not our users find it difficult to cook we found that users are neutral. So having a difficulty rating per recipe would benefit users' decisions. 
