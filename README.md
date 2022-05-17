@@ -1,6 +1,6 @@
 # What's Cookin
 
-A cooking app that allows the user to meet up with friends and family to come together and make meals while spending time together by sharing ingredients. What's Cookin is about finding that perfect recipe, so that you can have a good time while cooking and eating with those you care about.
+A cooking app that allow users to meet up with friends and family to come together and make meals while spending time together by sharing ingredients. What's Cookin is about finding that perfect recipe, so that you can have a good time while cooking and eating with those you care about.
 
 ## UX Team Members
 
